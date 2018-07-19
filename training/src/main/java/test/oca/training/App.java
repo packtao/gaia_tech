@@ -14,7 +14,7 @@ public class App
 	}
 	
 	static void add(String a, String b){
-		a=a+b;		
+		a=a+b+"test";		
 	}
 	
     public static void main( String[] args )
