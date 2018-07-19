@@ -14,7 +14,7 @@ public class App
 	}
 	
 	static void add(String a, String b){
-		a=a+b+"test";		
+		a=a+b+"test modif master";		
 	}
 	
     public static void main( String[] args )
