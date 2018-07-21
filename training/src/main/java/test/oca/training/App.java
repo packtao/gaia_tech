@@ -23,7 +23,7 @@ public class App
     	int q=10;
     	add(p, q);
     	
-    	String str1 = "abc";
+    	String str1 = "abc ";
     	String str2 = "def";
     	add(str1, str2);
     	
