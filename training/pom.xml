@@ -11,7 +11,7 @@
 	
 	<scm>
 		<connection>scm:git:https://github.com/packtao/gaia_tech.git</connection>
-		<tag>training-0.0.1</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 	<properties>
