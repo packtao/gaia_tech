@@ -3,7 +3,7 @@
 
 	<groupId>test.oca</groupId>
 	<artifactId>training</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>2.734.2-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>training</name>
